@@ -1,6 +1,6 @@
-## Olá! Seja bem vindo ao meu perfil!! 😎👋
+### Olá! Seja bem vindo ao meu perfil!! 😎👋
 
-Me chamo Vinícius Gomes Lucas
+Me chamo *Vinícius Gomes Lucas*
 
 - Pretendo aprender mais sobre programação e jogos eletrônicos;
 - Este espaço será útil para minha organização quanto aos estudos de JavaScript
